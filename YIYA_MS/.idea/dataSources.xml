@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="MySQL - @yiya" uuid="92ea8cf4-5e01-4231-a58b-29a9c45c1a1e">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://yiya:3306</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="MySQL - @yiya [2]" uuid="b42bf253-acc3-472b-b966-4055c99b1e49">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/yiya</jdbc-url>
+    </data-source>
+  </component>
+</project>
